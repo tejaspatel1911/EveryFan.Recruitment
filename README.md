@@ -23,7 +23,7 @@ In either case in the event of players tying for places they should be paid out 
 
 ## Bonus
 
-1.  Write some more tests to demonstrate that your solution works in most cases.
+1.  Write some more tests to demonstrate that your solution works in other cases.
 
 2.  Modify the FiftyFiftyPayoutCalculator class so that the OddSplitWinnings test passes. In the event of payouts not being equally divisble among the winners the remainder should be randomly distributed.
 
