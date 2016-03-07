@@ -19,7 +19,7 @@ In either case in the event of players tying for places they should be paid out 
 
 3.  Make changes so that the SplitWinnings tests pass for both classes. Remember, tied positions should be paid out an equal split of the total payouts due to their finishing positions.
 
-4.  Modify the PayoutCalculator class so the payout calculators are not new'd up within the Calculate method.
+4.  Modify the PayoutEngine class so payout calculators are created by a factory class passed as a constructor parameter.
 
 
 
