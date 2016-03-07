@@ -10,7 +10,7 @@ namespace EveryFan.Recruitment.PayoutCalculators
     /// should get their stake back. Any tied positions should have the sum of the amount due to those positions
     /// split equally among them.
     /// </summary>
-    public class FiftyFiftyPayoutCalculator
+    public class FiftyFiftyPayoutCalculator : IPayoutCalculator
     {
         private IReadOnlyList<PayingPosition> GetPayingPositions(Tournament tournament)
         {
