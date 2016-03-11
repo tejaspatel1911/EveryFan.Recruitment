@@ -1,6 +1,6 @@
 # EveryFan.Recruitment
 
-Welcome to Everyfan's C# technical test. To get started, fork this repository. Once you've finished making changes send us a pull request. Don't spend more than an hour or two on the test and don't worry if you don't manage to complete the bonus tasks.
+Welcome to Everyfan's C# technical test. To get started, fork this repository. Once you've finished making changes send us a pull request, please include your name in the pull request. Don't spend more than an hour or two on the test and don't worry if you don't manage to complete the bonus tasks.
 
 ## Introduction
 
